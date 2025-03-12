@@ -1,3 +1,4 @@
+#Instalar con "pip install pygame"
 import pygame, sys, random
 from pygame.locals import *
 
